@@ -17,8 +17,10 @@ Technologies I Used
 - Python
 - TensorFlow and Keras
 - NumPy
+- pandas
+- Pillow
 - Matplotlib
-- Scikit-learn
+- Scikit-learn (basics)
 - Gradio
 
 Dataset
